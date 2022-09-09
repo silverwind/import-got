@@ -1,2 +1,2 @@
-import fetch from "node-fetch";
+import isIP from "is-ip";
 import got from "got";
