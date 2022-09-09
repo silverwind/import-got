@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "lint": "npx eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "8.23.0",
+    "eslint-plugin-import": "2.26.0",
+    "got": "12.4.1",
+    "node-fetch": "3.2.10"
+  }
+}

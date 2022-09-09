@@ -1,0 +1,11 @@
+root: true
+
+plugins:
+  - eslint-plugin-import
+
+parserOptions:
+  sourceType: module
+  ecmaVersion: latest
+
+rules:
+  import/no-unresolved: [2]
